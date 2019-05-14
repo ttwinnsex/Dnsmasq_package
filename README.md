@@ -1,4 +1,4 @@
 # Dnsmasq_package regex ipset
-# Openwrt Dnsmasq 2.80 ipk
-Build source: https://github.com/lixingcong/dnsmasq-regex-openwrt
+### Build source 2.80
+URL: https://github.com/lixingcong/dnsmasq-regex-openwrt
 
